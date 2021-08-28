@@ -1,0 +1,93 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2739001526C945580075745D /* 01 - Variables y Constantes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01 - Variables y Constantes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001626C9473E0075745D /* 02 - Tipos de Datos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02 - Tipos de Datos.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001726C94AC70075745D /* 03 - Sentencias if.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03 - Sentencias if.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001926C950550075745D /* 04 - Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "04 - Switch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001A26C952910075745D /* 05 - Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "05 - Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001B26C9568B0075745D /* 06 - Diccionarios.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06 - Diccionarios.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001C26C959E60075745D /* 07 - Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07 - Loops.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001D26CA6F7A0075745D /* 08 - Opcionales.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "08 - Opcionales.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001E26CA71F90075745D /* 09 - Funciones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09 - Funciones.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2739001F26CA75250075745D /* 10 - Clases.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10 - Clases.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		27D8EA2526CAB3CB00C079AA /* 11 - Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11 - Closures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2739000E26C945260075745D = {
+			isa = PBXGroup;
+			children = (
+				27D8EA2526CAB3CB00C079AA /* 11 - Closures.playground */,
+				2739001F26CA75250075745D /* 10 - Clases.playground */,
+				2739001E26CA71F90075745D /* 09 - Funciones.playground */,
+				2739001D26CA6F7A0075745D /* 08 - Opcionales.playground */,
+				2739001C26C959E60075745D /* 07 - Loops.playground */,
+				2739001B26C9568B0075745D /* 06 - Diccionarios.playground */,
+				2739001A26C952910075745D /* 05 - Arrays.playground */,
+				2739001926C950550075745D /* 04 - Switch.playground */,
+				2739001726C94AC70075745D /* 03 - Sentencias if.playground */,
+				2739001626C9473E0075745D /* 02 - Tipos de Datos.playground */,
+				2739001526C945580075745D /* 01 - Variables y Constantes.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2739000F26C945260075745D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 2739001226C945260075745D /* Build configuration list for PBXProject "TutorialSwift" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2739000E26C945260075745D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2739001326C945260075745D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2739001426C945260075745D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2739001226C945260075745D /* Build configuration list for PBXProject "TutorialSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2739001326C945260075745D /* Debug */,
+				2739001426C945260075745D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2739000F26C945260075745D /* Project object */;
+}
